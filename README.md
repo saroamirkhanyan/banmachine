@@ -15,3 +15,9 @@
 գրել
 ավարտ
 ```
+
+## Commands
+PUSH - Adds data on top of stack
+POP - Removes last data from stack
+WRITE - Writes data in address of memory
+READ - Reads from address of memory and pushes to stack 
