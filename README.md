@@ -3,10 +3,6 @@
 
 > Virtual machine for banlang
 
-## Functionality
-1\. Write in memory
-2\. Work with stack 
-
 ## Example
 > This code will put 10 in 20 address of memory
 ```
@@ -15,7 +11,6 @@
 գրել
 ավարտ
 ```
-
 ## Commands
 PUSH - Adds data on top of stack
 POP - Removes last data from stack
